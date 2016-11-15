@@ -1,0 +1,33 @@
+/* CSS Document */
+.bodystyle{
+	background-color:#FFFFFF;
+}
+.tableTemp{
+	font-size:14px;
+	text-align:center;
+	width:100%;
+	margin:0 auto;
+	background-color:#ebf7fb;
+}
+/*.tableTemp td{
+	background-color:#EEEEEE;
+}*/
+.divOne{
+	border:thin solid #000;
+}
+.smallTitle{
+	margin: 0 auto;
+}
+.bodyBottom{
+	float:right;
+}
+.addTable {
+	background-color:#FFFFFF;
+	text-align: left;
+}
+.addTable input{
+	width:150px;
+}
+th{
+	background:#51A8FF;
+}
